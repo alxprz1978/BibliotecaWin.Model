@@ -1,0 +1,7 @@
+C:\Users\Usuario1\source\repos\Biblioteca2021A\BibliotecaWin.Model\obj\Debug\BibliotecaWin.Model.csproj.AssemblyReference.cache
+C:\Users\Usuario1\source\repos\Biblioteca2021A\BibliotecaWin.Model\obj\Debug\BibliotecaWin.Model.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\source\repos\Biblioteca2021A\BibliotecaWin.Model\bin\Debug\BibliotecaWin.Model.exe.config
+C:\Users\Usuario1\source\repos\Biblioteca2021A\BibliotecaWin.Model\bin\Debug\BibliotecaWin.Model.exe
+C:\Users\Usuario1\source\repos\Biblioteca2021A\BibliotecaWin.Model\bin\Debug\BibliotecaWin.Model.pdb
+C:\Users\Usuario1\source\repos\Biblioteca2021A\BibliotecaWin.Model\obj\Debug\BibliotecaWin.Model.exe
+C:\Users\Usuario1\source\repos\Biblioteca2021A\BibliotecaWin.Model\obj\Debug\BibliotecaWin.Model.pdb
